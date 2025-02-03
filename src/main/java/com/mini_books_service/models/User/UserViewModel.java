@@ -1,4 +1,4 @@
-package com.mini_books_service.models.viewmodels;
+package com.mini_books_service.models.User;
 
 public class UserViewModel {
     private String idHash;

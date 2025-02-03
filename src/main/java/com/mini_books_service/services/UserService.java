@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.mini_books_service.models.dtos.UserDTO;
-import com.mini_books_service.models.entities.User;
-import com.mini_books_service.models.viewmodels.UserViewModel;
+import com.mini_books_service.models.User.User;
+import com.mini_books_service.models.User.UserDTO;
+import com.mini_books_service.models.User.UserViewModel;
 import com.mini_books_service.repositories.UserRepository;
 
 @Service

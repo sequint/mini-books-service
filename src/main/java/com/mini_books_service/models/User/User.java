@@ -1,4 +1,4 @@
-package com.mini_books_service.models.entities;
+package com.mini_books_service.models.User;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

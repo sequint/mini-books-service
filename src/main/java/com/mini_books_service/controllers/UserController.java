@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mini_books_service.models.dtos.UserDTO;
-import com.mini_books_service.models.viewmodels.UserViewModel;
+import com.mini_books_service.models.User.UserDTO;
+import com.mini_books_service.models.User.UserViewModel;
 import com.mini_books_service.services.UserService;
 
 @RestController

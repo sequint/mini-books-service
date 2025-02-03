@@ -1,8 +1,6 @@
-package com.mini_books_service.models.dtos;
+package com.mini_books_service.models.User;
 
 import java.util.Base64;
-
-import com.mini_books_service.models.entities.User;
 
 public class UserDTO {
     private String idHash;
